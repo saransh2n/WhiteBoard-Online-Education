@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'poppins', sans-serif;
+}
+.forms{
+	max-width: 50%;
+	margin: 15px auto;
+}
+.text-center{
+	text-align: center;
+	padding: 10px;
+}
+.form-input{
+	width: 100%;
+	margin: 30px;
+	font-size: 16px;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+.contact{
+	background-color: #f6f5f4;
+	height: 621px;
+}
+.btn{
+	padding: 5px 20px;
+	margin: 5px 10px 5px 10px;
+	border: 2px solid grey;
+	border-radius: 8px;
+	background: none;
+	color: black;
+	cursor: pointer;
+	font-size: 16px;
+}
+.forms p{
+	text-align: center;
+	align-items: center;
+}
+.text-footer{
+	text-align: center;
+	padding: 10px 0;
+	background: rgba(0,0,0,0.7);
+}
+
